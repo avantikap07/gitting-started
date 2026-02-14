@@ -73,10 +73,18 @@ changes the name of the file that your trying to upload
 
 
 
-## Git Cloning!
+## Git Cloning and forking!!
 
 ```git clone <link>```  
 This command create a local copy of the repo into your system - making it easier for you to edit files locally! 
 followed by this a 
 ```code .``` 
 opens the very same file in your VS Code
+
+```gh repo fork username/reponame --clone```
+the ULTIMATE COMMAND LOL! - forks and clones a given repository at the same time! Why fork n clone? clone so u have it in your device , fork so that while its in your device , you are the boss ... u can make changes on it!!
+
+## TASK OF THE DAY : MAKING A PULL REQUEST! 
+Fork the repo -> clone the repo -> move into the folder -> make a folder with your name -> add a readme file with your name -> add them -> commit them with "<name> first commit" -> push it locally into yours -> make a pull request 
+
+```gh pr create --title "PR REQ <NAME>" --body "MADE MY FIRST PR YAYAYAYYAYAYYAYAY"```
