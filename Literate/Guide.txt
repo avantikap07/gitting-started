@@ -1,0 +1,14 @@
+A FOSS , BYO-Cloud PDF Reader and Sync Engine 
+
+So by foss , what we basically mean is a Free Open source software , which basicalyy means that our software is all free and open for everyone to check , inspect , review and if possible in the future join as editors or contribute to a certain project !! 
+
+BYO = basicalyy stands for be your own cloud , which is basically uk similar to having your own server get stuff done for u instead of relying on something like google where u store ur data onto their servers instead of one of your own 
+
+Sync engin - nothing to complex , think it of like cross platform in games where we uk play on phone n then shift to our consoles of pc for cross platform continuity 
+
+-----------------------------------------------------------
+mentor guide!
+
+- Start with frontend - set up react app and vite : set up the server 
+
+
